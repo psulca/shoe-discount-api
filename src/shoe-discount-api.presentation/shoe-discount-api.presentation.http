@@ -1,0 +1,6 @@
+@shoe_discount_api.presentation_HostAddress = http://localhost:5163
+
+GET {{shoe_discount_api.presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
